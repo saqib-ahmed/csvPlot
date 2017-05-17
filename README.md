@@ -1,6 +1,9 @@
 # csvPlot
 A command line script which uses microsoft excel to plot a graph from a CSV file.
 
+## Author
+Originally written by [Antoine](http://www.end2endzone.com/about-me/). This repository is just a fork of the original project made by him. I don't know him personally. I liked this work, it wasn't on github yet (to the best of my knowledge), so I created a repo here. Following is a narrative by the original author. In case of any comments or suggestions, go to the [Author's site](http://www.end2endzone.com/csvplot-a-command-line-script-which-uses-microsoft-excel-to-plot-a-graph-from-a-comma-separated-values-csv-file/) and to report any issues or request improvements, open issues here.
+
 ## Purpose
 I do software prototyping using a wide range of programming language. I often have to generate data that changes over time which is mostly displayed in a grid format. However, that’s not the best way to understand how the data changes over time compared to plotting the data to a graph.
 
